@@ -77,8 +77,3 @@ This makes it suitable for **data preprocessing, machine learning, and academic 
 - Hackathons
 
 ---
-
-
-
-## 📬 Author
-Created by *[Your Name]*  
