@@ -1,0 +1,61 @@
+Age,Gender,BMI,Alcohol_Intake,Smoking_Status,Hepatitis_B_Status,Hepatitis_C_Status,ALT_Level,AST_Level,ALP_Level,Bilirubin_Level,AFP_Level,Cirrhosis_Status,Diabetes_Status,Liver_Cancer_Possibility
+33,Female,29.0 kg/m2,0 units/week,Yes,No,Yes,99 U/L,136 U/L,273 U/L,,481.8 ng/mL,No,No,0.32
+57,Male,33.3 kg/m2,18 units/week,No,Yes,Yes,83 U/L,161 U/L,240 U/L,,454.3 ng/mL,Yes,No,0.66
+38,Male,22.4 kg/m2,25 units/week,No,No,No,123 U/L,,254 U/L,,554.4 ng/mL,No,No,0.43
+34,Male,23.9 kg/m2,30 units/week,Yes,No,Yes,98 U/L,105 U/L,,0.6 mg/dL,254.5 ng/mL,Yes,No,0.59
+31,Male,,10 units/week,Yes,No,No,84 U/L,137 U/L,240 U/L,1.8 mg/dL,379.5 ng/mL,Yes,Yes,0.61
+67,Female,,unknown,No,Yes,Yes,37 U/L,106 U/L,105 U/L,1.8 mg/dL,,No,Yes,0.55
+50,Female,23.0 kg/m2,0 units/week,No,Yes,Yes,146 U/L,107 U/L,162 U/L,0.9 mg/dL,579.7 ng/mL,Yes,Yes,0.23
+42,Male,20.4 kg/m2,5 units/week,No,Yes,No,144 U/L,27 U/L,192 U/L,1.2 mg/dL,533.6 ng/mL,Yes,Yes,0.48
+49,Male,26.9 kg/m2,0 units/week,Yes,No,Yes,107 U/L,45 U/L,,0.9 mg/dL,195.2 ng/mL,Yes,No,0.38
+39,Male,23.8 kg/m2,0 units/week,Yes,Yes,Yes,46 U/L,,136 U/L,2.5 mg/dL,486.1 ng/mL,Yes,No,0.86
+43,Female,20.4 kg/m2,18 units/week,No,Yes,No,80 U/L,94 U/L,349 U/L,,,No,No,0.83
+43,Male,34.6 kg/m2,0 units/week,Yes,Yes,No,32 U/L,164 U/L,343 U/L,2.5 mg/dL,550.2 ng/mL,Yes,No,0.86
+69,Female,26.9 kg/m2,unknown,Yes,No,No,108 U/L,143 U/L,271 U/L,1.2 mg/dL,,Yes,Yes,0.78
+56,Male,23.4 kg/m2,30 units/week,No,Yes,No,109 U/L,47 U/L,253 U/L,1.8 mg/dL,,Yes,No,0.28
+34,Male,22.4 kg/m2,10 units/week,No,Yes,No,135 U/L,126 U/L,142 U/L,1.8 mg/dL,,Yes,Yes,0.17
+51,Male,29.4 kg/m2,5 units/week,Yes,No,No,110 U/L,102 U/L,,0.9 mg/dL,165.8 ng/mL,No,No,0.07
+58,Male,20.5 kg/m2,25 units/week,No,Yes,No,98 U/L,133 U/L,141 U/L,0.9 mg/dL,271.4 ng/mL,No,Yes,0.16
+50,Female,20.6 kg/m2,30 units/week,No,No,Yes,130 U/L,71 U/L,,1.8 mg/dL,104.4 ng/mL,Yes,No,0.02
+60,Male,26.6 kg/m2,30 units/week,Yes,No,No,59 U/L,135 U/L,318 U/L,1.2 mg/dL,,No,No,0.98
+30,Male,27.6 kg/m2,5 units/week,No,No,Yes,102 U/L,,340 U/L,2.5 mg/dL,434.5 ng/mL,Yes,Yes,0.42
+30,Female,31.7 kg/m2,18 units/week,No,No,Yes,,61 U/L,101 U/L,0.9 mg/dL,,No,No,0.47
+50,Male,33.1 kg/m2,unknown,Yes,No,Yes,150 U/L,78 U/L,119 U/L,0.9 mg/dL,436.5 ng/mL,No,Yes,0.05
+45,Female,29.1 kg/m2,25 units/week,Yes,No,No,139 U/L,66 U/L,259 U/L,1.2 mg/dL,210.8 ng/mL,Yes,Yes,0.16
+39,Female,25.6 kg/m2,unknown,Yes,No,No,,125 U/L,292 U/L,1.2 mg/dL,606.4 ng/mL,No,No,0.11
+54,Male,33.4 kg/m2,25 units/week,No,No,No,87 U/L,71 U/L,274 U/L,1.2 mg/dL,138.5 ng/mL,Yes,Yes,0.03
+33,Female,26.5 kg/m2,10 units/week,No,Yes,No,50 U/L,147 U/L,260 U/L,0.6 mg/dL,499.0 ng/mL,Yes,Yes,0.58
+30,Male,25.2 kg/m2,5 units/week,No,Yes,Yes,108 U/L,127 U/L,122 U/L,2.5 mg/dL,615.6 ng/mL,No,No,0.89
+67,Male,31.7 kg/m2,25 units/week,Yes,No,Yes,119 U/L,86 U/L,252 U/L,1.2 mg/dL,,No,No,0.26
+63,Male,20.1 kg/m2,unknown,Yes,No,Yes,144 U/L,160 U/L,347 U/L,0.6 mg/dL,683.0 ng/mL,Yes,Yes,0.38
+56,Male,20.7 kg/m2,5 units/week,No,Yes,Yes,,113 U/L,331 U/L,2.5 mg/dL,,Yes,No,0.34
+64,Female,30.2 kg/m2,unknown,Yes,Yes,Yes,,,110 U/L,1.8 mg/dL,486.0 ng/mL,Yes,No,0.55
+38,Female,24.9 kg/m2,30 units/week,No,Yes,No,129 U/L,143 U/L,258 U/L,,334.9 ng/mL,No,No,0.26
+66,Female,24.4 kg/m2,18 units/week,Yes,No,No,80 U/L,79 U/L,207 U/L,0.9 mg/dL,284.3 ng/mL,Yes,Yes,0.67
+63,Male,31.0 kg/m2,unknown,Yes,Yes,No,25 U/L,168 U/L,232 U/L,0.9 mg/dL,571.0 ng/mL,Yes,No,0.4
+59,Male,33.3 kg/m2,unknown,Yes,Yes,No,,,345 U/L,2.5 mg/dL,181.2 ng/mL,Yes,Yes,0.91
+31,Male,23.7 kg/m2,unknown,No,Yes,Yes,83 U/L,,,1.2 mg/dL,596.1 ng/mL,No,No,0.45
+55,Female,34.4 kg/m2,0 units/week,Yes,Yes,No,32 U/L,,158 U/L,1.8 mg/dL,,No,No,0.89
+35,Male,23.0 kg/m2,0 units/week,Yes,Yes,Yes,88 U/L,27 U/L,174 U/L,1.2 mg/dL,469.1 ng/mL,Yes,Yes,0.77
+31,Female,27.6 kg/m2,18 units/week,No,No,Yes,28 U/L,,175 U/L,,300.7 ng/mL,Yes,Yes,0.93
+54,Male,27.7 kg/m2,25 units/week,No,No,No,151 U/L,129 U/L,,1.8 mg/dL,282.4 ng/mL,Yes,Yes,0.2
+50,Male,33.8 kg/m2,10 units/week,No,Yes,Yes,100 U/L,33 U/L,172 U/L,1.2 mg/dL,,No,No,0.07
+53,Female,25.3 kg/m2,0 units/week,No,No,Yes,,142 U/L,314 U/L,0.6 mg/dL,518.4 ng/mL,No,Yes,0.46
+70,Female,31.3 kg/m2,25 units/week,Yes,Yes,Yes,104 U/L,43 U/L,328 U/L,1.8 mg/dL,164.3 ng/mL,No,Yes,0.17
+59,Male,20.3 kg/m2,unknown,Yes,Yes,Yes,,113 U/L,267 U/L,,589.5 ng/mL,Yes,No,0.79
+48,Female,20.3 kg/m2,18 units/week,Yes,No,No,88 U/L,,145 U/L,2.5 mg/dL,488.0 ng/mL,No,No,0.27
+70,Male,30.0 kg/m2,5 units/week,Yes,Yes,Yes,132 U/L,36 U/L,227 U/L,0.9 mg/dL,625.1 ng/mL,Yes,No,0.42
+65,Female,21.5 kg/m2,10 units/week,Yes,No,Yes,,122 U/L,273 U/L,0.6 mg/dL,49.8 ng/mL,Yes,Yes,0.32
+54,Male,,5 units/week,No,Yes,No,128 U/L,,336 U/L,0.9 mg/dL,128.1 ng/mL,Yes,Yes,0.64
+37,Male,25.3 kg/m2,25 units/week,No,No,Yes,88 U/L,163 U/L,291 U/L,1.8 mg/dL,443.0 ng/mL,Yes,Yes,0.19
+38,Female,,10 units/week,Yes,Yes,No,120 U/L,,208 U/L,2.5 mg/dL,608.5 ng/mL,Yes,Yes,0.88
+55,Male,22.2 kg/m2,30 units/week,No,Yes,Yes,26 U/L,82 U/L,229 U/L,0.9 mg/dL,29.5 ng/mL,No,Yes,0.56
+43,Female,22.9 kg/m2,unknown,Yes,No,Yes,74 U/L,,204 U/L,1.2 mg/dL,,Yes,Yes,0.06
+31,Female,29.4 kg/m2,10 units/week,Yes,No,Yes,44 U/L,,137 U/L,,329.1 ng/mL,Yes,No,0.45
+49,Female,32.1 kg/m2,0 units/week,No,No,No,77 U/L,57 U/L,,1.2 mg/dL,409.2 ng/mL,Yes,Yes,0.31
+32,Male,23.5 kg/m2,18 units/week,No,No,No,114 U/L,46 U/L,253 U/L,0.6 mg/dL,680.1 ng/mL,No,No,0.04
+56,Female,28.4 kg/m2,30 units/week,Yes,No,Yes,45 U/L,103 U/L,107 U/L,,49.1 ng/mL,Yes,No,0.11
+43,Male,20.5 kg/m2,0 units/week,Yes,No,No,159 U/L,,,1.8 mg/dL,,No,Yes,0.12
+63,Male,30.7 kg/m2,10 units/week,No,No,No,116 U/L,78 U/L,194 U/L,1.8 mg/dL,,No,No,0.01
+34,Female,20.2 kg/m2,25 units/week,No,No,No,31 U/L,136 U/L,163 U/L,0.9 mg/dL,,No,Yes,0.27
+31,Male,24.4 kg/m2,unknown,Yes,No,Yes,142 U/L,86 U/L,278 U/L,0.9 mg/dL,,No,No,0.48
